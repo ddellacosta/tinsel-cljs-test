@@ -1,0 +1,7 @@
+.lein-repl-history
+.nrepl-port
+*.log
+out
+target
+tinsel_cljs_test.js
+*~
